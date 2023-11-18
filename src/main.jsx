@@ -11,6 +11,8 @@ import ErrorPage from './pages/ErrorPage';
 import Home from './pages/HomePage';
 import Portfolio from './pages/Portfolio';
 import About from './pages/About';
+import Resume from './pages/Resume';
+import Contact from './pages/Contact';
 
 // Define the accessible routes, and which components respond to which URL
 const router = createBrowserRouter([
