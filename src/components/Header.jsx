@@ -1,4 +1,4 @@
-import Nav from './components/Navigation';
+import Nav from './Navigation';
 
 export default function Header() {
     // Importing the Navigation
