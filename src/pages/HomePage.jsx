@@ -1,9 +1,11 @@
-// import { useState, useEffect } from 'react';
-// // Bringing in the required component from 'react-router-dom' for linking between pages
-// import { Link } from 'react-router-dom';
-
 export default function HomePage() {
-  return (
-    <div>Testing Home Page stuff!</div>
-  );
+    return (
+        <div>
+            <h2>Welcome to Github Page!</h2>
+            <p>Needing a website built with the latest technologies?</p>
+            <p>Looking for a top notch website?</p>
+            <p>You've come to the right place!</p>
+            <p>Take a look around, see what you like. And when you're ready, feel free to <a href="/contact">contact</a> me to discuss your project.</p>
+        </div>
+    );
 }

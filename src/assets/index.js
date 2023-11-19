@@ -1,2 +1,6 @@
-export {default as sunset2} from './projects/sunset2.jpg'
-// export {default as cute2} from './projects/sunset2.jpg'
+export {default as mm} from './projects/mm.png'
+export {default as pwg} from './projects/pwg.png'
+export {default as cc} from './projects/cc.png'
+export {default as wdc} from './projects/wdc.png'
+export {default as weather} from './projects/weather.png'
+export {default as ecs} from './projects/ecs.png'

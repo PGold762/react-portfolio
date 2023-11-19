@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 // import 'bootstrap/dist/css/bootstrap.min.css';
+import './reset.css';
 import './index.css';
 
 // Bringing in the pages the router will use to conditionally show the appropriate views
