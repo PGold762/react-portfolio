@@ -1,7 +1,7 @@
 export default function HomePage() {
     return (
         <div>
-            <h2>Welcome to Github Page!</h2>
+            <h2>Welcome to my github page!</h2>
             <p>Needing a website built with the latest technologies?</p>
             <p>Looking for a top notch website?</p>
             <p>You've come to the right place!</p>
