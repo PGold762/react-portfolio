@@ -4,10 +4,10 @@ export default function Header() {
     // Importing the Navigation
     return (
       <>
-      <div>
+      <div className="logo">
         <h1>Phillip Goldberg</h1>
       </div>
-        <Nav />
+      <div className="nav"><Nav /></div>
       </>
     );
   }
