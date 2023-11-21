@@ -6,7 +6,7 @@ export default function Resume() {
     return (
         <>
             <div>
-                <p>Want to download my resume? Click the icon now: <a href={resumeFile}><img src={downloadIcon} alt="Download Resume Icon" /></a></p>
+                <p>Want to download my resume? Click the icon now: <Link to={resumeFile}><img src={downloadIcon} alt="Download Resume Icon" /></Link></p>
             </div>
             <div>
                 <h2>My Proficiencies:</h2>
